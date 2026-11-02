@@ -1,0 +1,17 @@
+[project]
+name = "strands-decider-book"
+version = "1.0.0"
+description = "入門 System Oneモデル ― Strands DeciderとStrands AgentsでつくるAIエージェント サンプルコード"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "fastapi>=0.162.0",
+    "strands-agents>=1.63.0",
+    "uvicorn>=0.54.0",
+]
+
+[dependency-groups]
+mask = [
+    "ja-ginza-bert-large>=5.3.0",
+    "presidio-analyzer>=2.2.366",
+    "presidio-anonymizer>=2.2.366",
+]
