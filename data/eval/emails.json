@@ -1,0 +1,802 @@
+[
+  {
+    "id": "e001",
+    "from": "松本 恵子 <matsumoto.keiko@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T18:10:00+09:00",
+    "subject": "今週の週次ミーティングの議題",
+    "body": "第二営業課の皆さん\n\nお疲れ様です。松本です。\n\n今週の週次ミーティングでは、次の2点を話し合いたいと思います。\n\n1. 見本会計の年末キャンペーンの進め方\n2. 12月の展示会に向けた準備\n\nキャンペーンの案がある人は、ミーティングの前日までに共有フォルダへ入れておいてください。\n\n営業部 部長\n松本 恵子（内線 1201）\n"
+  },
+  {
+    "id": "e002",
+    "from": "加藤 誠 <kato.makoto@sample-shoji.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T16:35:00+09:00",
+    "subject": "先日のお打ち合わせの御礼",
+    "body": "株式会社見本ソフト\n青木様\n\nいつもお世話になっております。\n株式会社サンプル商事の加藤です。\n\n先日はお時間をいただき、ありがとうございました。\n弊社の部長の野口も、見本会計の操作性を高く評価しておりました。\n\nいただいた議事録の内容で、相違ございません。\n次回は、11月19日（木）15:00〜16:00に、導入スケジュールのご相談をさせてください。\n\n引き続きよろしくお願いいたします。\n\n――――――――――――――――\n株式会社サンプル商事 経営企画部\n加藤 誠\nTEL：03-0000-4321\n――――――――――――――――\n"
+  },
+  {
+    "id": "e003",
+    "from": "斎藤 美咲 <saito.misaki@sample-bussan.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T14:20:00+09:00",
+    "subject": "見本会計についてのお問い合わせ",
+    "body": "株式会社見本ソフト\n営業ご担当者様\n\n突然のご連絡失礼いたします。\n株式会社サンプル物産 管理部の斎藤と申します。\n\n現在、経理システムの入れ替えを検討しており、見本会計の資料を拝見しました。\n従業員は50名ほどで、拠点が3つあります。\n複数拠点での利用に向いたプランがあれば、ご紹介いただけますでしょうか。\n\n一度、オンラインでご説明をお願いできれば幸いです。\n\n株式会社サンプル物産 管理部\n斎藤 美咲\n〒103-0000 東京都中央区見本橋1-4-2 見本ビル5F\nTEL：03-0000-2468\n"
+  },
+  {
+    "id": "e004",
+    "from": "森 翔太 <mori.shota@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-08T20:45:00+09:00",
+    "subject": "1on1の日程変更のお願い",
+    "body": "青木課長\n\nお疲れ様です。森です。\n先週はお休みをいただき、ありがとうございました。\n\nインフルエンザは治ったのですが、寝込んでいるあいだに腰を痛めてしまい、\n今週は整形外科に通院するため、火曜と木曜は17時に退社させてください。\n\nそれに伴い、木曜の1on1を水曜の同じ時間に変更していただけないでしょうか。\n"
+  },
+  {
+    "id": "e005",
+    "from": "前田 大輔 <maeda.daisuke@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-07T10:12:00+09:00",
+    "subject": "住所変更の届け出について",
+    "body": "青木さん\n\nお疲れ様です。前田です。\n\n先週末に引っ越しをしましたので、ご報告します。\n新しい住所は次のとおりです。\n\n〒220-0000\n神奈川県横浜市西区見本台4-11-3 グランメゾン見本305\n\n総務部への届け出も済ませています。\n通勤経路が変わるので、交通費の申請もあらためて提出します。\n"
+  },
+  {
+    "id": "e006",
+    "from": "見本ソフト 総務部 <soumu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T13:00:00+09:00",
+    "subject": "【全社】年末調整の書類の提出について",
+    "body": "社員各位\n\n総務部です。\n今年も年末調整の時期になりました。\n\n次の書類を、11月20日（金）までに人事システムから提出してください。\n\n・扶養控除等申告書\n・保険料控除申告書\n\nマイナンバーの記入欄がありますが、メールやチャットで番号を送ることは絶対にしないでください。\n不明な点は、総務部の窓口（内線 1500）までお問い合わせください。\n"
+  },
+  {
+    "id": "e007",
+    "from": "SaaSジャーナル編集部 <news@saas-journal.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-08T07:00:00+09:00",
+    "subject": "【SaaSジャーナル】今週の注目ニュース（11月第2週）",
+    "body": "SaaSジャーナル 今週の注目ニュース\n\n■ 中小企業のクラウド会計の導入率が5割を超える\n調査会社の発表によると、従業員50名以下の企業での導入率が初めて50%を超えました。\n\n■ インボイス対応の問い合わせが再び増加\n年末に向けて、請求書の発行方法を見直す企業が増えています。\n\n記事の続きはWebサイトでご覧ください。\nhttps://saas-journal.example.com/weekly/2026-11-2\n\n配信の停止はこちら：https://saas-journal.example.com/unsubscribe\n"
+  },
+  {
+    "id": "e008",
+    "from": "見本銀行 <security@mihon-bank-login.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-08T23:41:00+09:00",
+    "subject": "【重要】お客様の口座の利用を一時停止しました",
+    "body": "見本銀行をご利用のお客様\n\nお客様の口座で、第三者による不正なログインの可能性が検出されました。\n安全のため、口座のご利用を一時的に停止しております。\n\n24時間以内に、次のページから本人確認を行ってください。\n確認が取れない場合、口座は凍結されます。\n\nhttps://mihon-bank-login.example.net/verify\n\n見本銀行 セキュリティセンター\n"
+  },
+  {
+    "id": "e009",
+    "from": "村上 由美 <murakami.yumi@mail.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-07T15:30:00+09:00",
+    "subject": "スタンダードプランへの変更ありがとうございました",
+    "body": "見本ソフト 青木様\n\nお世話になっております。村上です。\n先日はプラン変更の件でご対応いただき、ありがとうございました。\n\nさっそく給与計算の設定をしているのですが、\n来月から雇う従業員の情報をどこに入れればよいのかわからず、困っています。\n\n従業員：高木 結衣（2001年5月14日生まれ）\n雇用形態：パート、時給1,200円\n\nこの内容をどの画面に入力すればよいか、教えていただけますか。\n\n村上 由美\n"
+  },
+  {
+    "id": "e010",
+    "from": "佐々木 優 <sasaki.yu@sample-career.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T17:50:00+09:00",
+    "subject": "藤井様の一次面接の日程について",
+    "body": "株式会社見本ソフト\n青木様\n\nいつもお世話になっております。\n株式会社サンプルキャリアの佐々木です。\n\n書類選考の通過のご連絡、ありがとうございました。\n藤井様から、一次面接の候補日をいただきましたので、お知らせします。\n\n・11月12日（木）14:00〜15:00\n・11月13日（金）10:00〜11:00\n\nいずれかでご調整いただけますと幸いです。\n\n株式会社サンプルキャリア\n佐々木 優\n"
+  },
+  {
+    "id": "e011",
+    "from": "青木 美穂 <miho.aoki@example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-08T21:15:00+09:00",
+    "subject": "お義母さんのこと",
+    "body": "陽介へ\n\nさっきお義母さんから電話があって、\n来週の水曜から3日間、胃の検査のために入院することになったって。\n\n金曜の退院のときは、車で迎えに行ってあげてほしいそうです。\n仕事の都合を確認しておいてね。\n\n美穂\n"
+  },
+  {
+    "id": "e012",
+    "from": "井上 健二 <inoue.kenji@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T11:00:00+09:00",
+    "subject": "ノートPCの入れ替えについて",
+    "body": "第二営業課の皆さん\n\n情報システム部の井上です。\n\nノートPCの入れ替えを、11月16日（月）から順番に行います。\n第二営業課は、11月18日（水）の午後を予定しています。\n\n当日までに、デスクトップに保存しているファイルを、共有ドライブへ移しておいてください。\n\n情報システム部\n井上 健二（内線 2105）\n"
+  },
+  {
+    "id": "e013",
+    "from": "Emily Carter <emily.carter@global-partners.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-07T02:30:00+09:00",
+    "subject": "Partnership meeting / パートナー契約の打ち合わせ",
+    "body": "Dear Mr. Aoki,\n\nThank you for your time at the trade show last month.\n先日はありがとうございました。\n\nWe would like to have an online meeting about the reseller partnership.\nWould November 17 (Tue) at 9:00 JST work for you?\n\nBest regards,\nEmily Carter\nSample Global Partners Inc.\nPhone: +1-206-555-0147\n"
+  },
+  {
+    "id": "e014",
+    "from": "岡田 真理 <okada.mari@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T15:05:00+09:00",
+    "subject": "【社外秘】中村さんの試用期間の評価について",
+    "body": "青木課長\n\nお疲れ様です。人事部の岡田です。\n\n中村 翼さんの試用期間が、11月末で終わります。\nこれまでの評価シートを確認したところ、評価は「期待どおり」で、本採用とする予定です。\n\n最終の面談を、11月16日（月）までに実施し、結果を人事システムに入力してください。\n\n人事部 岡田\n"
+  },
+  {
+    "id": "e015",
+    "from": "健康経営フォーラム事務局 <forum@kenko-forum.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-08T09:00:00+09:00",
+    "subject": "【参加無料】健康経営で生産性を上げるオンラインフォーラム",
+    "body": "人事・総務ご担当者様\n\n健康経営フォーラム事務局です。\n\n社員の健康づくりが、生産性や採用にどう効くのか。\n先進企業の事例を紹介するオンラインフォーラムを開催します。\n\n日時：12月3日（木）13:00〜16:00\n参加費：無料\n\nお申し込みはこちら：https://kenko-forum.example.net/entry\n"
+  },
+  {
+    "id": "e016",
+    "from": "小林 明美 <kobayashi.akemi@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T16:00:00+09:00",
+    "subject": "【経理】出張旅費の精算の差し戻し",
+    "body": "青木さん\n\nお疲れ様です。経理部の小林です。\n\n10月分の出張旅費の精算について、大阪出張の宿泊費の領収書が添付されていませんでした。\nお手数ですが、11月11日（水）までに、領収書を添付して再申請をお願いします。\n\n経理部 小林\n"
+  },
+  {
+    "id": "e017",
+    "from": "高橋 一郎 <takahashi.ichiro@mihon-unyu.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T10:25:00+09:00",
+    "subject": "仕訳の取り込みがうまくいきません",
+    "body": "見本ソフト サポートご担当 青木様\n\nお世話になっております。見本運輸の高橋です。\n\n先月から見本会計を使わせていただいています。\n銀行の明細を取り込もうとすると、「ファイルの形式が正しくありません」と表示されます。\nCSVファイルは、銀行のサイトからダウンロードしたものをそのまま使っています。\n\nお手すきの際に、お電話いただけると助かります。\n\n見本運輸株式会社 経理課\n高橋 一郎\nTEL：045-000-1357\n"
+  },
+  {
+    "id": "e018",
+    "from": "西村 健 <nishimura.ken@test-kogyo.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-06T17:15:00+09:00",
+    "subject": "見本会計 発注のご連絡",
+    "body": "株式会社見本ソフト 営業部\n青木様\n\nお世話になっております。有限会社テスト工業の西村です。\n\nお見積りをありがとうございました。\n社内の稟議が通りましたので、スタンダードプラン10名分で発注いたします。\n\n請求書は、次の宛先にお送りください。\n\n〒330-0000 埼玉県さいたま市大宮区見本町5-6-7\n有限会社テスト工業 総務部 内田 宛\n\nよろしくお願いいたします。\n\n有限会社テスト工業 総務部\n西村 健\n"
+  },
+  {
+    "id": "e019",
+    "from": "見本小学校 <info@mihon-es.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-08T17:00:00+09:00",
+    "subject": "【見本小学校】3年生の学年閉鎖のお知らせ",
+    "body": "保護者の皆様\n\n見本小学校です。\n\n3年生で、インフルエンザによる欠席者が増えています。\n感染の拡大を防ぐため、11月9日（月）から11日（水）まで、3年生を学年閉鎖とします。\n\n期間中は、ご家庭での健康観察をお願いします。\n12日（木）からの登校については、あらためてお知らせします。\n"
+  },
+  {
+    "id": "e020",
+    "from": "小川 健太郎 <ogawa.kentaro@example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-07T22:05:00+09:00",
+    "subject": "同窓会のお知らせ",
+    "body": "陽介\n\n久しぶり。小川です。\n大学のゼミの同窓会を、12月12日（土）にやることになった。\n\n場所は渋谷の店を予定していて、詳細は来週決める。\n今回は鈴木が転勤で来られないので、少人数になりそう。\n\n出欠だけ、11月20日までに連絡くれるとありがたい。\n電話でもいいよ（090-0000-2233）。\n\n小川 健太郎\n"
+  },
+  {
+    "id": "e021",
+    "from": "松本 恵子 <matsumoto.keiko@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T13:40:00+09:00",
+    "subject": "12月の展示会のブース担当について",
+    "body": "第二営業課の皆さん\n\nお疲れ様です。松本です。\n\n12月の展示会のブース担当を、次のとおり割り当てました。\n\n・12月8日（火）：森さん、中村さん\n・12月9日（水）：石川さん、前田さん\n\n青木さんは、両日とも商談の対応をお願いします。\n担当日の都合が悪い人は、11月13日（金）までに私まで連絡してください。\n\n営業部 部長\n松本\n"
+  },
+  {
+    "id": "e022",
+    "from": "石川 さくら <ishikawa.sakura@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T18:20:00+09:00",
+    "subject": "先日の面談のお礼と、今後の予定について",
+    "body": "青木課長\n\nお疲れ様です。石川です。\n先日は面談の時間をいただき、ありがとうございました。\n\n先週、病院で母子手帳をもらってきました。\n出産予定日は来年の4月20日です。\nつわりも落ち着いてきたので、年内はこれまでどおり働けそうです。\n\n産休に入る時期は、主治医と相談してから、あらためてご相談させてください。\n"
+  },
+  {
+    "id": "e023",
+    "from": "山口 直樹 <yamaguchi.naoki@example-data.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T11:30:00+09:00",
+    "subject": "情報交換の日程について",
+    "body": "株式会社見本ソフト\n青木様\n\nお世話になっております。\n株式会社エグザンプル・データの山口です。\n\n先日は、オンラインでの情報交換をご検討いただけるとのこと、ありがとうございます。\n次の日程でご都合はいかがでしょうか。\n\n・11月19日（木）11:00〜12:00\n・11月20日（金）16:00〜17:00\n\n山口 直樹 / Naoki Yamaguchi\n株式会社エグザンプル・データ アライアンス推進部\n携帯：080-0000-6543\n"
+  },
+  {
+    "id": "e024",
+    "from": "渡辺 恵美 <watanabe.emi@mail.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T15:10:00+09:00",
+    "subject": "顧問先のデータ移行について",
+    "body": "見本ソフト 営業部 御中\n\nはじめまして。サンプル会計事務所の渡辺と申します。\n\n顧問先の何社かで、見本会計への乗り換えを検討しています。\n他社の会計ソフトから、過去3年分の仕訳データを移行できるかどうかを知りたいです。\n\n移行の手順がわかる資料があれば、お送りいただけますか。\n\nサンプル会計事務所\n税理士 渡辺 恵美\n大阪市北区見本町2-3-1 見本ビル3階\nTEL：06-0000-3579\n"
+  },
+  {
+    "id": "e025",
+    "from": "清水 大和 <shimizu.yamato@mail.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T22:50:00+09:00",
+    "subject": "年額払いへの切り替え",
+    "body": "見本ソフトさま\n\n清水です。お店の会計で見本会計を使っています。\n\n月額払いから年額払いに切り替えたいです。\nサイトでうまく登録できなかったので、このカードで決済をお願いします。\n\nカード番号 5555 5555 5555 4444\n有効期限 12/28\n\nよろしくお願いします。\n\nビストロ見本 清水 大和\n"
+  },
+  {
+    "id": "e026",
+    "from": "小林 明美 <kobayashi.akemi@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T14:45:00+09:00",
+    "subject": "中村さんの立替金の振込先について",
+    "body": "青木さん\n\nお疲れ様です。経理部の小林です。\n\n中村さんから提出された立替金の申請で、振込先が給与の口座と違っていました。\n申請書に書かれていた振込先は、次のとおりです。\n\n見本銀行 渋谷支店 普通 0123456 ナカムラ ツバサ\n\nこの口座への振込でよいか、中村さんに確認していただけますか。\n\n経理部 小林\n"
+  },
+  {
+    "id": "e027",
+    "from": "見本ソフト 総務部 <soumu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T12:00:00+09:00",
+    "subject": "【全社】社員旅行のアンケートのお願い",
+    "body": "社員各位\n\n総務部です。\n\n来年の社員旅行の行き先について、アンケートを実施します。\n候補は、箱根、金沢、沖縄の3つです。\n\n11月17日（火）までに、社内ポータルのアンケートから回答してください。\n"
+  },
+  {
+    "id": "e028",
+    "from": "クラウド会計ニュース <news@cloud-kaikei.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T06:30:00+09:00",
+    "subject": "クラウド会計ニュース 第212号",
+    "body": "クラウド会計ニュース 第212号\n\n■ 電子帳簿保存法への対応状況\n対応を終えた中小企業は、全体の6割ほどにとどまっています。\n\n■ 年末調整の電子化\n今年から、年末調整を電子化する企業がさらに増える見込みです。\n\n詳しくはこちら：https://cloud-kaikei.example.com/news/212\n"
+  },
+  {
+    "id": "e029",
+    "from": "見本運輸 配達センター <delivery@mihon-unyu-tracking.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T19:22:00+09:00",
+    "subject": "お荷物のお届けについて",
+    "body": "お客様\n\nお荷物をお届けにあがりましたが、ご不在のため持ち帰りました。\n保管期限は2日間です。\n\n再配達のお申し込みは、次のページからお願いします。\nhttps://mihon-unyu-tracking.example.net/redelivery\n\n見本運輸 配達センター\n"
+  },
+  {
+    "id": "e030",
+    "from": "岡田 真理 <okada.mari@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T16:30:00+09:00",
+    "subject": "【親展】12月からの給与について",
+    "body": "青木さん\n\nお疲れ様です。人事部の岡田です。\n\n来年度の等級の見直しに伴い、12月から給与が変わります。\n青木さんの12月からの基本給は、月額412,000円です。\n\n詳細は、人事システムの給与明細のページでご確認ください。\n\n人事部 岡田\n"
+  },
+  {
+    "id": "e031",
+    "from": "前田 大輔 <maeda.daisuke@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T19:05:00+09:00",
+    "subject": "有給休暇の申請について",
+    "body": "青木さん\n\nお疲れ様です。前田です。\n\n急なお願いで申し訳ありません。\n父が11月17日（火）に心臓の手術を受けることになり、付き添いのため、その日に有給休暇をいただけないでしょうか。\n\n担当しているお客様への連絡は、事前に済ませておきます。\n"
+  },
+  {
+    "id": "e032",
+    "from": "中村 翼 <nakamura.tsubasa@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T18:55:00+09:00",
+    "subject": "本日の商談のご報告",
+    "body": "青木さん\n\nお疲れ様です。中村です。\n本日の商談について、ご報告します。\n\n・訪問先：株式会社見本商会 総務部\n・ご担当：田村様、北川様\n・内容：見本会計のライトプランのデモ\n・結果：前向きにご検討いただけるとのことです。来週、見積もりを送ります。\n\n見積もりの内容は、明日ご相談させてください。\n"
+  },
+  {
+    "id": "e033",
+    "from": "吉田 千夏 <yoshida.chinatsu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T10:15:00+09:00",
+    "subject": "【親展】健康診断の再検査のお願い",
+    "body": "青木 陽介 様\n\n健康管理室の吉田です。\n\n先日の定期健康診断で、血圧の値が基準を超えていたため、再検査の対象となりました。\n11月30日（月）までに、提携の医療機関で再検査を受けてください。\n\n予約の方法は、社内ポータルの「健康管理」のページに載っています。\n\n健康管理室 保健師\n吉田 千夏（内線 1650）\n"
+  },
+  {
+    "id": "e034",
+    "from": "Emily Carter <emily.carter@global-partners.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T03:10:00+09:00",
+    "subject": "Re: Partnership meeting",
+    "body": "Dear Mr. Aoki,\n\nThank you for confirming the meeting on November 17.\nOur CEO, Michael Brown, will also join the call.\n\nI will send the meeting link a few days before.\n\nBest regards,\nEmily Carter\n"
+  },
+  {
+    "id": "e035",
+    "from": "営業DXセミナー事務局 <info@seminar.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T09:30:00+09:00",
+    "subject": "【残席わずか】売上が伸びる営業DXセミナー",
+    "body": "営業部門の皆様\n\n営業DXセミナー事務局です。\n11月20日（金）開催のセミナーは、残席がわずかとなりました。\n\n・営業活動の見える化\n・成約率を上げる提案の型\n\nお申し込みはお早めに：https://seminar.example.net/entry\n"
+  },
+  {
+    "id": "e036",
+    "from": "加藤 誠 <kato.makoto@sample-shoji.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T17:25:00+09:00",
+    "subject": "契約書の送付先について",
+    "body": "株式会社見本ソフト\n青木様\n\nお世話になっております。サンプル商事の加藤です。\n\nご契約書の原本は、次の宛先にお送りいただけますでしょうか。\n\n東京都千代田区見本町1-1-1 サンプル商事ビル7階\n株式会社サンプル商事 法務部 野口 宛\n\nお手数をおかけしますが、よろしくお願いいたします。\n\n加藤 誠\n"
+  },
+  {
+    "id": "e037",
+    "from": "青木 美穂 <miho.aoki@example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T07:35:00+09:00",
+    "subject": "陽菜の熱",
+    "body": "陽介\n\n陽菜が朝から38度の熱があるので、今日は学校を休ませて、小児科に連れて行きます。\nインフルエンザかどうかは、病院で調べてもらいます。\n\n夕方の買い物ができないかもしれないので、帰りに牛乳を買ってきてくれると助かります。\n\n美穂\n"
+  },
+  {
+    "id": "e038",
+    "from": "見本ストア <order@mihon-store.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T20:10:00+09:00",
+    "subject": "ご注文ありがとうございます（注文番号 20261109-0042）",
+    "body": "青木 陽介 様\n\n見本ストアをご利用いただき、ありがとうございます。\n次の内容でご注文を承りました。\n\n・ワイヤレスマウス 1点\n\nお届け先：〒150-0000 東京都渋谷区見本町8-2-6\nお届け予定日：11月12日（木）\nお問い合わせ先の電話番号：090-0000-7788\n\nまたのご利用をお待ちしております。\n"
+  },
+  {
+    "id": "e039",
+    "from": "佐々木 優 <sasaki.yu@sample-career.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T16:00:00+09:00",
+    "subject": "【候補者のご推薦】法人営業職 小野寺 遥様",
+    "body": "株式会社見本ソフト\n青木様\n\nいつもお世話になっております。\n株式会社サンプルキャリアの佐々木です。\n\n法人営業職のポジションに、もう1名ご推薦いたします。\n\n氏名：小野寺 遥（おのでら はるか）\n生年月日：平成8年3月2日\n現住所：東京都世田谷区見本台6-1-9\n現在の年収：450万円\n希望年収：520万円\n\n職務経歴書を添付いたします。11月16日（月）までに、書類選考の結果をお知らせください。\n\n株式会社サンプルキャリア\n佐々木 優\n"
+  },
+  {
+    "id": "e040",
+    "from": "井上 健二 <inoue.kenji@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-09T15:40:00+09:00",
+    "subject": "【注意】宅配業者を装ったメールについて",
+    "body": "社員各位\n\n情報システム部の井上です。\n\n宅配業者を装い、再配達の申し込みを求めるメールが、社内で多数確認されています。\nメールのリンクは開かず、そのまま削除してください。\n\n誤ってリンクを開いてしまった場合は、情報システム部（内線 2105）までご連絡ください。\n"
+  },
+  {
+    "id": "e041",
+    "from": "松本 恵子 <matsumoto.keiko@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T12:30:00+09:00",
+    "subject": "忘年会の日程調整",
+    "body": "第二営業課の皆さん\n\nお疲れ様です。松本です。\n\n今年の課の忘年会の日程を決めたいと思います。\n候補は、12月18日（金）と12月22日（火）です。\n\n都合の悪い日があれば、11月16日（月）までに返信してください。\n"
+  },
+  {
+    "id": "e042",
+    "from": "森 翔太 <mori.shota@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T17:40:00+09:00",
+    "subject": "Re: 1on1の日程変更のお願い",
+    "body": "青木課長\n\nお疲れ様です。森です。\n1on1の日程を変更していただき、ありがとうございました。\n\n整形外科の診断書を、本日総務部に提出しました。\n腰椎の軽い捻挫とのことで、2週間ほどで治る見込みです。\n\n明日の1on1では、展示会の準備について相談させてください。\n"
+  },
+  {
+    "id": "e043",
+    "from": "西村 健 <nishimura.ken@test-kogyo.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T10:50:00+09:00",
+    "subject": "導入の日程についてのご相談",
+    "body": "株式会社見本ソフト 営業部\n青木様\n\nお世話になっております。有限会社テスト工業の西村です。\n\n見本会計の初期設定について、12月1日（火）から利用を始めたいと考えています。\n設定の作業は、弊社総務部の内田が担当します。\n\n内田の携帯は090-0000-4455です。\n日程の調整は、内田と直接お願いできますでしょうか。\n\n有限会社テスト工業 総務部\n西村 健\n"
+  },
+  {
+    "id": "e044",
+    "from": "斎藤 美咲 <saito.misaki@sample-bussan.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T09:45:00+09:00",
+    "subject": "Re: 見本会計についてのお問い合わせ",
+    "body": "株式会社見本ソフト\n青木様\n\nご返信ありがとうございます。サンプル物産の斎藤です。\n\nオンラインでのご説明は、11月18日（水）10:00〜11:00でお願いいたします。\n会議のURLは、前日までにお送りいただけますと幸いです。\n\n株式会社サンプル物産 管理部\n斎藤 美咲\nTEL：03-0000-2468\n"
+  },
+  {
+    "id": "e045",
+    "from": "村上 由美 <murakami.yumi@mail.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T13:20:00+09:00",
+    "subject": "従業員の登録ができました",
+    "body": "見本ソフト 青木様\n\n村上です。教えていただいた画面から、従業員の登録ができました。\nありがとうございました。\n\nひとつだけ確認させてください。\n従業員の住所の欄に「東京都杉並区見本町3-9-1 コーポ見本101」と入れたところ、\n「番地の形式が正しくありません」と表示されます。\n建物名は別の欄に入れるのでしょうか。\n\n村上\n"
+  },
+  {
+    "id": "e046",
+    "from": "前田 大輔 <maeda.daisuke@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T21:30:00+09:00",
+    "subject": "扶養の追加について",
+    "body": "青木さん\n\nお疲れ様です。前田です。\n\n年末調整で、妻を扶養に追加したいと考えています。\n妻の情報は次のとおりです。\n\n氏名：前田 由紀\n生年月日：昭和63年7月21日\nマイナンバー：2345 6789 0123\n\nこの内容で、人事システムに登録すればよいでしょうか。\n"
+  },
+  {
+    "id": "e047",
+    "from": "見本ソフト 総務部 <soumu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T11:00:00+09:00",
+    "subject": "【全社】防災訓練の実施について",
+    "body": "社員各位\n\n総務部です。\n\n11月19日（木）14:00から、全社で防災訓練を行います。\n非常ベルが鳴ったら、各フロアの避難経路に沿って、本社前の公園に集まってください。\n\n所要時間は30分ほどです。\n"
+  },
+  {
+    "id": "e048",
+    "from": "SaaSジャーナル編集部 <news@saas-journal.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T07:00:00+09:00",
+    "subject": "【SaaSジャーナル】号外：会計SaaSの価格改定が相次ぐ",
+    "body": "SaaSジャーナル 号外\n\n■ 会計SaaSの価格改定が相次ぐ\n主要な会計SaaSのうち3社が、来年からの値上げを発表しました。\n\n記事の続きはWebサイトでご覧ください。\nhttps://saas-journal.example.com/news/2026-11-11\n\n配信の停止はこちら：https://saas-journal.example.com/unsubscribe\n"
+  },
+  {
+    "id": "e049",
+    "from": "見本ソフト 情報システム部 <it-support@mihon-soft-security.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T08:15:00+09:00",
+    "subject": "【至急】メールボックスの容量が上限に達しました",
+    "body": "社員各位\n\nメールボックスの容量が上限に達したため、新しいメールを受信できなくなります。\n次のページからログインし、容量を追加してください。\n\nhttps://mihon-soft-security.example.net/mailbox\n\n見本ソフト 情報システム部\n"
+  },
+  {
+    "id": "e050",
+    "from": "岡田 真理 <okada.mari@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T15:15:00+09:00",
+    "subject": "【社外秘】下期の評価面談の実施について",
+    "body": "青木課長\n\nお疲れ様です。人事部の岡田です。\n\n下期の評価面談を、11月27日（金）までに実施してください。\n事前の集計では、森さんは目標の達成率が60%にとどまっており、評価はCの見込みです。\n面談では、来期の目標の立て方についても話し合ってください。\n\n人事部 岡田\n"
+  },
+  {
+    "id": "e051",
+    "from": "小林 明美 <kobayashi.akemi@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T16:20:00+09:00",
+    "subject": "見本運輸様への返金の振込先について",
+    "body": "青木さん\n\nお疲れ様です。経理部の小林です。\n\n見本運輸様の二重請求の返金について、先方から次の振込先をいただきました。\n\n見本郵便銀行 記号10000 番号00000001 ミホンウンユ（カ\n\n営業担当として、この振込先で間違いないか、高橋様に確認していただけますか。\n\n経理部 小林\n"
+  },
+  {
+    "id": "e052",
+    "from": "中村 翼 <nakamura.tsubasa@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T18:30:00+09:00",
+    "subject": "試用期間の面談の日程について",
+    "body": "青木さん\n\nお疲れ様です。中村です。\n\n人事部から、試用期間の最終面談を受けるように連絡がありました。\n11月13日（金）は外出の予定がないので、いつでも大丈夫です。\n\nお手数ですが、ご都合のよい時間を教えてください。\n"
+  },
+  {
+    "id": "e053",
+    "from": "高橋 一郎 <takahashi.ichiro@mihon-unyu.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T14:00:00+09:00",
+    "subject": "Re: 仕訳の取り込みがうまくいきません",
+    "body": "見本ソフト 青木様\n\n見本運輸の高橋です。\nお電話でのご説明、ありがとうございました。\n\n文字コードを変えたところ、明細を取り込めるようになりました。\n助かりました。\n\n高橋\n"
+  },
+  {
+    "id": "e054",
+    "from": "小川 健太郎 <ogawa.kentaro@example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T23:10:00+09:00",
+    "subject": "同窓会の店が決まった",
+    "body": "陽介\n\n小川です。同窓会の店が決まった。\n\n日時：12月12日（土）18:30〜\n場所：渋谷の「見本酒場」\n\n出欠の連絡は、前に伝えた期限までで大丈夫。\n"
+  },
+  {
+    "id": "e055",
+    "from": "Emily Carter <emily.carter@global-partners.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T04:05:00+09:00",
+    "subject": "Meeting link for November 17",
+    "body": "Dear Mr. Aoki,\n\nHere is the link for our meeting on November 17 at 9:00 JST.\nhttps://meet.global-partners.example.com/aoki-1117\n\nLooking forward to speaking with you.\n\nBest regards,\nEmily\n"
+  },
+  {
+    "id": "e056",
+    "from": "健康経営フォーラム事務局 <forum@kenko-forum.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T09:00:00+09:00",
+    "subject": "【締切間近】健康経営オンラインフォーラム",
+    "body": "人事・総務ご担当者様\n\n健康経営フォーラム事務局です。\n12月3日（木）開催のオンラインフォーラムの申し込みは、今週金曜日までです。\n\n社員の睡眠や運動の習慣を改善した企業の事例を紹介します。\n\nお申し込みはこちら：https://kenko-forum.example.net/entry\n"
+  },
+  {
+    "id": "e057",
+    "from": "吉田 千夏 <yoshida.chinatsu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T10:00:00+09:00",
+    "subject": "【全社】ストレスチェックの実施について",
+    "body": "社員各位\n\n健康管理室です。\n\n今年のストレスチェックを、11月24日（火）まで実施しています。\n社内ポータルの「健康管理」のページから、15分ほどで回答できます。\n\n個人の結果が、本人の同意なく会社に知らされることはありません。\n"
+  },
+  {
+    "id": "e058",
+    "from": "佐々木 優 <sasaki.yu@sample-career.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T11:40:00+09:00",
+    "subject": "藤井様の一次面接の日程確定のご連絡",
+    "body": "株式会社見本ソフト\n青木様\n\nお世話になっております。サンプルキャリアの佐々木です。\n\n藤井様の一次面接は、11月12日（木）14:00〜15:00で確定いたしました。\n当日は、藤井様が貴社の受付にお伺いします。\n\n株式会社サンプルキャリア\n佐々木 優\n"
+  },
+  {
+    "id": "e059",
+    "from": "青木 和子 <kazuko.aoki@example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T20:00:00+09:00",
+    "subject": "入院のこと",
+    "body": "陽介へ\n\n母です。明日から入院します。\n先生からは、胃に小さなポリープがあるけれど、心配はいらないと言われています。\n\n退院は金曜の11時の予定です。\n美穂さんが迎えに来てくれると言ってくれたので、あなたは仕事を優先してね。\n\n母より\n"
+  },
+  {
+    "id": "e060",
+    "from": "見本ストア <order@mihon-store.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-10T19:00:00+09:00",
+    "subject": "商品を発送しました（注文番号 20261109-0042）",
+    "body": "青木 陽介 様\n\nご注文の商品を発送しました。\n\nお届け先：〒150-0000 東京都渋谷区見本町8-2-6\nお届け予定日：11月12日（木）\n\n配送状況は、注文履歴のページからご確認いただけます。\n"
+  },
+  {
+    "id": "e061",
+    "from": "松本 恵子 <matsumoto.keiko@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T17:00:00+09:00",
+    "subject": "年末キャンペーンの決定事項",
+    "body": "第二営業課の皆さん\n\nお疲れ様です。松本です。\n\n週次ミーティングで話し合った年末キャンペーンの内容が、次のとおり決まりました。\n\n・期間：11月24日（火）〜12月25日（金）\n・内容：年額払いで新規契約したお客様は、初年度の料金を10%割り引く\n\nお客様向けの案内文は、11月18日（水）までに各自で確認しておいてください。\n\n営業部 部長\n松本 恵子\n"
+  },
+  {
+    "id": "e062",
+    "from": "石川 さくら <ishikawa.sakura@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T18:10:00+09:00",
+    "subject": "担当顧客の引き継ぎについて",
+    "body": "青木課長\n\nお疲れ様です。石川です。\n\n来年の春から産休に入ることを見越して、担当しているお客様の引き継ぎ計画を作りました。\n共有フォルダの「引き継ぎ」に入れてあります。\n\n引き継ぎ先の候補について、来週ご相談させてください。\n"
+  },
+  {
+    "id": "e063",
+    "from": "加藤 誠 <kato.makoto@sample-shoji.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T11:20:00+09:00",
+    "subject": "契約書を返送いたしました",
+    "body": "株式会社見本ソフト\n青木様\n\nお世話になっております。サンプル商事の加藤です。\n\nご契約書に押印のうえ、本日返送いたしました。\n19日のお打ち合わせでは、導入のスケジュールをご相談させてください。\n\n加藤\n"
+  },
+  {
+    "id": "e064",
+    "from": "渡辺 恵美 <watanabe.emi@mail.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T14:35:00+09:00",
+    "subject": "Re: 顧問先のデータ移行について",
+    "body": "見本ソフト 青木様\n\nサンプル会計事務所の渡辺です。資料をありがとうございました。\n\n試しに、顧問先の1社のデータで移行を試したいと思います。\n給与の設定で、従業員の坂本 隆さんのマイナンバー（123456789010）を入力したところ、\nエラーになりました。\n\n桁数は合っているはずなのですが、原因がわかりますか。\n\n渡辺 恵美\n"
+  },
+  {
+    "id": "e065",
+    "from": "清水 大和 <shimizu.yamato@mail.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T21:40:00+09:00",
+    "subject": "決済ありがとうございました",
+    "body": "見本ソフトさま\n\n清水です。年額払いの手続きをしていただき、ありがとうございました。\n\nもうひとつお願いがあります。\n来月、お店を移転するので、登録している住所を変更したいです。\n\n新しい住所：東京都目黒区見本通り2-5-8 1階\n\nよろしくお願いします。\n\nビストロ見本 清水\n"
+  },
+  {
+    "id": "e066",
+    "from": "前田 大輔 <maeda.daisuke@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T07:50:00+09:00",
+    "subject": "本日の出社について",
+    "body": "青木さん\n\nおはようございます。前田です。\n\n今朝からめまいがひどいので、病院に寄ってから出社します。\nお昼ごろには出社できる見込みです。\n\n午前中のお客様との電話は、中村さんにお願いしてあります。\n"
+  },
+  {
+    "id": "e067",
+    "from": "見本ソフト 総務部 <soumu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T12:00:00+09:00",
+    "subject": "【社内報】11月号",
+    "body": "社員各位\n\n総務部です。社内報の11月号をお届けします。\n\n■ 新しい仲間の紹介\n第二営業課に、中村 翼さんが加わりました。\n前職では、旅行会社で法人営業を担当していたそうです。\n\n■ 部活動の紹介\n今月は、フットサル部の活動を紹介します。\n\n全文は、社内ポータルでご覧ください。\n"
+  },
+  {
+    "id": "e068",
+    "from": "クラウド会計ニュース <news@cloud-kaikei.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T06:30:00+09:00",
+    "subject": "クラウド会計ニュース 第213号",
+    "body": "クラウド会計ニュース 第213号\n\n■ 年末の締めに向けたチェックリスト\n売掛金の消し込み、減価償却、在庫の棚卸しなど、年末に確認したい項目をまとめました。\n\n詳しくはこちら：https://cloud-kaikei.example.com/news/213\n"
+  },
+  {
+    "id": "e069",
+    "from": "見本カード <info@mihon-card-check.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T22:30:00+09:00",
+    "subject": "【見本カード】ご利用確認のお願い",
+    "body": "見本カードをご利用のお客様\n\nお客様のカードで、普段と異なるご利用がありました。\nご本人のご利用か確認するため、次のページでカード番号と有効期限を入力してください。\n\nhttps://mihon-card-check.example.net/confirm\n\nご確認いただけない場合、カードのご利用を制限することがあります。\n"
+  },
+  {
+    "id": "e070",
+    "from": "岡田 真理 <okada.mari@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T16:45:00+09:00",
+    "subject": "【親展】冬季賞与について",
+    "body": "青木さん\n\nお疲れ様です。人事部の岡田です。\n\n上期の査定の結果、青木さんの評価はB+でした。\nこれに伴い、冬季賞与は基準額の1.1倍の支給となる見込みです。\n\n支給日は12月10日（木）です。\n\n人事部 岡田\n"
+  },
+  {
+    "id": "e071",
+    "from": "中村 翼 <nakamura.tsubasa@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T18:20:00+09:00",
+    "subject": "見本商会様への見積もりについて",
+    "body": "青木さん\n\nお疲れ様です。中村です。\n\n見本商会様への見積もりを作成しました。共有フォルダに入れてあります。\nご確認いただけましたら、田村様（03-0000-9876）にお電話でご説明します。\n\n金曜は青木さんが出張とのことなので、明日中にご確認いただけると助かります。\n"
+  },
+  {
+    "id": "e072",
+    "from": "井上 健二 <inoue.kenji@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T10:30:00+09:00",
+    "subject": "ノートPCの入れ替えの時間について",
+    "body": "青木さん\n\n情報システム部の井上です。\n\n11月18日（水）のノートPCの入れ替えは、青木さんの分を15:00から行います。\n作業には1時間ほどかかります。\n\nその時間は、PCを使えなくなりますのでご注意ください。\n"
+  },
+  {
+    "id": "e073",
+    "from": "山口 直樹 <yamaguchi.naoki@example-data.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T13:10:00+09:00",
+    "subject": "Re: 情報交換の日程について",
+    "body": "株式会社見本ソフト\n青木様\n\nご返信ありがとうございます。エグザンプル・データの山口です。\n\nそれでは、11月20日（金）16:00〜17:00でお願いいたします。\nオンライン会議のURLは、こちらからお送りします。\n\n山口\n"
+  },
+  {
+    "id": "e074",
+    "from": "青木 美穂 <miho.aoki@example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T19:30:00+09:00",
+    "subject": "陽菜、インフルエンザだった",
+    "body": "陽介\n\n病院の検査で、陽菜はインフルエンザでした。\n薬を飲んで熱は下がってきたけど、登校できるのは来週の火曜からです。\n\n今週末の予定は、全部キャンセルしておくね。\n\n美穂\n"
+  },
+  {
+    "id": "e075",
+    "from": "営業DXセミナー事務局 <info@seminar.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T09:30:00+09:00",
+    "subject": "【アーカイブ配信】営業DXセミナー",
+    "body": "営業部門の皆様\n\n営業DXセミナー事務局です。\n前回のセミナーの録画を、期間限定で配信しています。\n\n視聴はこちら：https://seminar.example.net/archive\n"
+  },
+  {
+    "id": "e076",
+    "from": "小林 明美 <kobayashi.akemi@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T15:00:00+09:00",
+    "subject": "【経理】年末の締めのスケジュール",
+    "body": "営業部の皆さん\n\n経理部の小林です。\n\n年末の締めのスケジュールをお知らせします。\n\n・12月分の経費精算の締切：12月25日（金）\n・請求書の発行の締切：12月28日（月）\n\n締切を過ぎた申請は、翌月の処理になります。\n"
+  },
+  {
+    "id": "e077",
+    "from": "吉田 千夏 <yoshida.chinatsu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T11:15:00+09:00",
+    "subject": "再検査の予約について",
+    "body": "青木さん\n\n健康管理室の吉田です。\n\nご依頼いただいた再検査の予約が取れました。\n11月24日（火）9:30に、見本クリニックで血圧の再検査を受けてください。\n\n当日は、朝食を抜いてお越しください。\n"
+  },
+  {
+    "id": "e078",
+    "from": "Emily Carter <emily.carter@global-partners.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T05:20:00+09:00",
+    "subject": "Agenda for our meeting",
+    "body": "Dear Mr. Aoki,\n\nPlease find the agenda for our meeting on November 17 below.\n\n1. Introduction of Sample Global Partners (Michael Brown)\n2. Reseller program overview (Emily Carter)\n3. Next steps\n\nBest regards,\nEmily Carter\n"
+  },
+  {
+    "id": "e079",
+    "from": "佐々木 優 <sasaki.yu@sample-career.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T16:10:00+09:00",
+    "subject": "小野寺様の書類選考の状況について",
+    "body": "株式会社見本ソフト\n青木様\n\nお世話になっております。サンプルキャリアの佐々木です。\n\n先日ご推薦した小野寺様について、ほかの企業の選考も進んでいるとのことです。\n可能であれば、16日を待たずに結果をお知らせいただけますと幸いです。\n\n佐々木\n"
+  },
+  {
+    "id": "e080",
+    "from": "西村 健 <nishimura.ken@test-kogyo.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-11T10:05:00+09:00",
+    "subject": "初期設定の日程が決まりました",
+    "body": "株式会社見本ソフト 営業部\n青木様\n\n有限会社テスト工業の西村です。\n\n内田と調整した結果、初期設定のご支援は11月26日（木）13:00〜15:00にお願いすることになりました。\n当日は、弊社にお越しいただけるとのことで、ありがとうございます。\n\n弊社の住所は、〒330-0000 埼玉県さいたま市大宮区見本町5-6-7です。\n\n西村\n"
+  },
+  {
+    "id": "e081",
+    "from": "松本 恵子 <matsumoto.keiko@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T16:30:00+09:00",
+    "subject": "来週の私の不在について",
+    "body": "第二営業課の皆さん\n\nお疲れ様です。松本です。\n\n来週の月曜と火曜は、私用で休みをいただきます。\n急ぎの決裁が必要な場合は、青木さんに相談してください。\n\n営業部 部長\n松本 恵子（内線 1201）\n"
+  },
+  {
+    "id": "e082",
+    "from": "森 翔太 <mori.shota@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T17:50:00+09:00",
+    "subject": "1on1のお礼",
+    "body": "青木課長\n\nお疲れ様です。森です。\n昨日の1on1では、展示会の準備について相談に乗っていただき、ありがとうございました。\n\n腰の痛みはだいぶ良くなり、来週から通院は週1回になります。\n展示会のブースの設営も、問題なく手伝えそうです。\n"
+  },
+  {
+    "id": "e083",
+    "from": "石川 さくら <ishikawa.sakura@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T19:00:00+09:00",
+    "subject": "産休の開始日について",
+    "body": "青木課長\n\nお疲れ様です。石川です。\n\n主治医と相談し、3月20日から産休に入ることにしました。\n人事部への届け出は、来週中に済ませます。\n\n課の皆さんには、12月の忘年会のころにお伝えしたいと考えています。\nそれまでは、引き続き内密にしていただけると助かります。\n"
+  },
+  {
+    "id": "e084",
+    "from": "斎藤 美咲 <saito.misaki@sample-bussan.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T14:25:00+09:00",
+    "subject": "オンライン説明の参加者について",
+    "body": "株式会社見本ソフト\n青木様\n\nお世話になっております。サンプル物産の斎藤です。\n\n18日のオンライン説明には、弊社の部長の大野と、経理担当の松井も参加いたします。\n3拠点の運用について、具体的な事例を伺えますと幸いです。\n\n斎藤\n"
+  },
+  {
+    "id": "e085",
+    "from": "村上 由美 <murakami.yumi@mail.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T12:40:00+09:00",
+    "subject": "支払いのカードを変更したいです",
+    "body": "見本ソフト 青木様\n\n村上です。いつもありがとうございます。\n\n月額料金の支払いに使っているカードを、新しいカードに変えたいです。\n新しいカード番号は4111 1111 1111 1111です。\n\n手続きをお願いできますか。\n\n村上 由美\n"
+  },
+  {
+    "id": "e086",
+    "from": "前田 大輔 <maeda.daisuke@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T18:45:00+09:00",
+    "subject": "本日はご迷惑をおかけしました",
+    "body": "青木さん\n\nお疲れ様です。前田です。\n今日は遅れて出社し、ご迷惑をおかけしました。\n\n病院では、軽い貧血と言われました。\n鉄剤を処方してもらったので、しばらく様子を見ます。\n"
+  },
+  {
+    "id": "e087",
+    "from": "見本ソフト 総務部 <soumu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T11:00:00+09:00",
+    "subject": "【全社】住所や通勤経路が変わったときの手続き",
+    "body": "社員各位\n\n総務部です。\n\n引っ越しなどで住所や通勤経路が変わったときは、2週間以内に人事システムから届け出てください。\n届け出が遅れると、通勤手当の支給が遅れることがあります。\n\n手続きの方法は、社内ポータルの「各種届け出」のページをご覧ください。\n"
+  },
+  {
+    "id": "e088",
+    "from": "SaaSジャーナル編集部 <news@saas-journal.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-13T07:00:00+09:00",
+    "subject": "【SaaSジャーナル】週末に読みたい記事",
+    "body": "SaaSジャーナル 週末に読みたい記事\n\n■ 営業チームの生産性を上げる3つの習慣\n■ 中小企業のDX、成功と失敗の分かれ目\n\n記事はWebサイトでご覧ください。\nhttps://saas-journal.example.com/weekend/2026-11-13\n\n配信の停止はこちら：https://saas-journal.example.com/unsubscribe\n"
+  },
+  {
+    "id": "e089",
+    "from": "見本運輸 配達センター <delivery@mihon-unyu-tracking.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T20:40:00+09:00",
+    "subject": "【再送】お荷物のお届けについて",
+    "body": "お客様\n\nお荷物のお届け先の住所に不備があるため、配達できませんでした。\n次のページから、正しい住所を入力してください。\n\nhttps://mihon-unyu-tracking.example.net/address\n\n見本運輸 配達センター\n"
+  },
+  {
+    "id": "e090",
+    "from": "岡田 真理 <okada.mari@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T15:30:00+09:00",
+    "subject": "【社外秘】中村さんの本採用について",
+    "body": "青木課長\n\nお疲れ様です。人事部の岡田です。\n\n最終面談の結果を受けて、中村さんの本採用が決まりました。\n本採用後の基本給は、月額265,000円です。\n\nご本人への通知は、11月20日（金）に私から行います。\n\n人事部 岡田\n"
+  },
+  {
+    "id": "e091",
+    "from": "小林 明美 <kobayashi.akemi@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T13:30:00+09:00",
+    "subject": "出張旅費の精算が完了しました",
+    "body": "青木さん\n\n経理部の小林です。\n\n再申請いただいた10月分の出張旅費の精算が完了しました。\n11月25日の給与と一緒に振り込まれます。\n"
+  },
+  {
+    "id": "e092",
+    "from": "中村 翼 <nakamura.tsubasa@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T17:20:00+09:00",
+    "subject": "見本商会様の口座振替の手続きについて",
+    "body": "青木さん\n\nお疲れ様です。中村です。\n\n見本商会様から、口座振替の依頼書をいただきました。\n書かれている口座は、次のとおりです。\n\n見本信用金庫 本店 普通預金 口座番号 7654321 名義 カ）ミホンショウカイ\n\nこのまま経理部に回してよいでしょうか。\n"
+  },
+  {
+    "id": "e093",
+    "from": "高橋 一郎 <takahashi.ichiro@mihon-unyu.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T10:10:00+09:00",
+    "subject": "来年度の契約について",
+    "body": "見本ソフト 青木様\n\n見本運輸の高橋です。\n\n来年度も見本会計を使い続けたいと思います。\n利用人数が5名増える予定なので、来年度の見積もりをいただけますか。\n\n高橋\n"
+  },
+  {
+    "id": "e094",
+    "from": "小川 健太郎 <ogawa.kentaro@example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T22:30:00+09:00",
+    "subject": "同窓会の参加者",
+    "body": "陽介\n\n小川です。今のところの参加者はこんな感じ。\n\n参加：小川、佐藤、伊藤、山本（敬称略）\n未定：陽介\n\n返事、待ってるよ。\n"
+  },
+  {
+    "id": "e095",
+    "from": "青木 和子 <kazuko.aoki@example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T19:45:00+09:00",
+    "subject": "検査が終わりました",
+    "body": "陽介へ\n\n母です。今日の検査は無事に終わりました。\nポリープは取ってもらい、結果は来週の外来で聞くことになりました。\n\n明日の退院は、予定どおり美穂さんにお願いしています。\n\n母より\n"
+  },
+  {
+    "id": "e096",
+    "from": "健康経営フォーラム事務局 <forum@kenko-forum.example.net>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T09:00:00+09:00",
+    "subject": "【本日締切】健康経営オンラインフォーラム",
+    "body": "人事・総務ご担当者様\n\n健康経営フォーラム事務局です。\n12月3日（木）開催のオンラインフォーラムの申し込みは、本日が締切です。\n\nお申し込みはこちら：https://kenko-forum.example.net/entry\n"
+  },
+  {
+    "id": "e097",
+    "from": "吉田 千夏 <yoshida.chinatsu@mihon-soft.example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T10:00:00+09:00",
+    "subject": "【全社】インフルエンザの予防接種について",
+    "body": "社員各位\n\n健康管理室です。\n\n今年も、社内でインフルエンザの予防接種を行います。\n日時：11月26日（木）、27日（金）の13:00〜17:00\n場所：本社 第3会議室\n\n希望者は、11月20日（金）までに社内ポータルから申し込んでください。\n"
+  },
+  {
+    "id": "e098",
+    "from": "佐々木 優 <sasaki.yu@sample-career.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T18:00:00+09:00",
+    "subject": "藤井様の一次面接のお礼",
+    "body": "株式会社見本ソフト\n青木様\n\n本日は、藤井様の面接のお時間をいただき、ありがとうございました。\n藤井様も、貴社の雰囲気がよくわかったと申しておりました。\n\nなお、藤井様の現在の年収は480万円で、希望は550万円とのことです。\n二次面接に進む場合は、ご連絡ください。\n\n株式会社サンプルキャリア\n佐々木 優\n"
+  },
+  {
+    "id": "e099",
+    "from": "Emily Carter <emily.carter@global-partners.example.com>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T06:15:00+09:00",
+    "subject": "Before our meeting",
+    "body": "Dear Mr. Aoki,\n\nIf you have any questions before our meeting, please contact my assistant,\nYuki Tanaka (yuki.tanaka@global-partners.example.com).\nShe speaks Japanese.\n\nBest regards,\nEmily Carter\n"
+  },
+  {
+    "id": "e100",
+    "from": "青木 美穂 <miho.aoki@example.jp>",
+    "to": "青木 陽介 <aoki.yosuke@mihon-soft.example.jp>",
+    "date": "2026-11-12T21:00:00+09:00",
+    "subject": "日曜日の予定",
+    "body": "陽介\n\n陽菜の熱が下がったので、日曜日の結菜ちゃんの誕生日会には行けそう。\n14時に、結菜ちゃんの家まで送ってもらえる？\n\n美穂\n"
+  }
+]

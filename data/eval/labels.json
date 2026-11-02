@@ -1,0 +1,4431 @@
+[
+  {
+    "id": "e001",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "年末キャンペーンの案を共有フォルダへ入れる",
+        "due": "2026-11-08"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "松本 恵子"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "matsumoto.keiko@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "松本"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "内線 1201"
+      }
+    ],
+    "note": "議題の連絡。期限は前日（日曜）になる"
+  },
+  {
+    "id": "e002",
+    "needs_reply": true,
+    "archive": false,
+    "events": [
+      {
+        "title": "サンプル商事 導入スケジュールの相談",
+        "start": "2026-11-19T15:00:00+09:00",
+        "end": "2026-11-19T16:00:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "加藤 誠"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kato.makoto@sample-shoji.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "加藤"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "野口"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "03-0000-4321"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e003",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "斎藤 美咲"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "saito.misaki@sample-bussan.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "斎藤"
+      },
+      {
+        "field": "body",
+        "type": "POSTAL_CODE",
+        "text": "〒103-0000"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "東京都中央区見本橋1-4-2 見本ビル5F"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "03-0000-2468"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e004",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "森 翔太"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "mori.shota@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "森"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "インフルエンザは治ったのですが、寝込んでいるあいだに腰を痛めてしまい、"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "今週は整形外科に通院するため、火曜と木曜は17時に退社させてください。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e005",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "前田 大輔"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "maeda.daisuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "前田"
+      },
+      {
+        "field": "body",
+        "type": "POSTAL_CODE",
+        "text": "〒220-0000"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "神奈川県横浜市西区見本台4-11-3 グランメゾン見本305"
+      }
+    ],
+    "note": "報告のみ。返信は必須ではない"
+  },
+  {
+    "id": "e006",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "年末調整の書類を人事システムから提出する",
+        "due": "2026-11-20"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "soumu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "内線 1500"
+      }
+    ],
+    "note": "全社への案内。マイナンバーという語はあるが番号はない（紛らわしい例）"
+  },
+  {
+    "id": "e007",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "news@saas-journal.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "ニュースレター"
+  },
+  {
+    "id": "e008",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "security@mihon-bank-login.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "フィッシング風（銀行を装う）"
+  },
+  {
+    "id": "e009",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "村上 由美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "murakami.yumi@mail.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "村上"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "高木 結衣"
+      },
+      {
+        "field": "body",
+        "type": "BIRTH_DATE",
+        "text": "2001年5月14日"
+      },
+      {
+        "field": "body",
+        "type": "SALARY",
+        "text": "雇用形態：パート、時給1,200円"
+      }
+    ],
+    "note": "顧客が従業員の個人情報を書いてしまった例"
+  },
+  {
+    "id": "e010",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "佐々木 優"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "sasaki.yu@sample-career.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "佐々木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "藤井"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e011",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "青木 美穂"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "miho.aoki@example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "美穂"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "来週の水曜から3日間、胃の検査のために入院することになったって。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "金曜の退院のときは、車で迎えに行ってあげてほしいそうです。"
+      }
+    ],
+    "note": "私用のメール。家族の健康情報"
+  },
+  {
+    "id": "e012",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "PCのデスクトップのファイルを共有ドライブへ移す",
+        "due": "2026-11-18"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "井上 健二"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "inoue.kenji@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "井上"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "内線 2105"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e013",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "emily.carter@global-partners.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Aoki"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "+1-206-555-0147"
+      }
+    ],
+    "note": "英語のメール。人名はローマ字"
+  },
+  {
+    "id": "e014",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "中村さんの試用期間の最終面談をして、結果を入力する",
+        "due": "2026-11-16"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "岡田 真理"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "okada.mari@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "subject",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村 翼"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "岡田"
+      },
+      {
+        "field": "body",
+        "type": "EVALUATION",
+        "text": "これまでの評価シートを確認したところ、評価は「期待どおり」で、本採用とする予定です。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e015",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "forum@kenko-forum.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "広告メール。健康という語はあるが個人の健康情報ではない"
+  },
+  {
+    "id": "e016",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "大阪出張の宿泊費の領収書を添付して再申請する",
+        "due": "2026-11-11"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "小林 明美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kobayashi.akemi@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小林"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e017",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "高橋 一郎"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "takahashi.ichiro@mihon-unyu.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "高橋"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "045-000-1357"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e018",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "テスト工業へ請求書を送る",
+        "due": "2026-11-13"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "西村 健"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "nishimura.ken@test-kogyo.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "西村"
+      },
+      {
+        "field": "body",
+        "type": "POSTAL_CODE",
+        "text": "〒330-0000"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "埼玉県さいたま市大宮区見本町5-6-7"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "内田"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e019",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "info@mihon-es.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "学校からの一斉連絡。特定の個人の健康情報ではない（紛らわしい例）"
+  },
+  {
+    "id": "e020",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "小川 健太郎"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "ogawa.kentaro@example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小川"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "鈴木"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "090-0000-2233"
+      }
+    ],
+    "note": "私用のメール"
+  },
+  {
+    "id": "e021",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "松本 恵子"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "matsumoto.keiko@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "松本"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "森"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "石川"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "前田"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e022",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "石川 さくら"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "ishikawa.sakura@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "石川"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "先週、病院で母子手帳をもらってきました。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "出産予定日は来年の4月20日です。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "つわりも落ち着いてきたので、年内はこれまでどおり働けそうです。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "産休に入る時期は、主治医と相談してから、あらためてご相談させてください。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e023",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "山口 直樹"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "yamaguchi.naoki@example-data.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "山口"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Naoki Yamaguchi"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "080-0000-6543"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e024",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "渡辺 恵美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "watanabe.emi@mail.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "渡辺"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "大阪市北区見本町2-3-1 見本ビル3階"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "06-0000-3579"
+      }
+    ],
+    "note": "住所に都道府県がない"
+  },
+  {
+    "id": "e025",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "清水 大和"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "shimizu.yamato@mail.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "清水"
+      },
+      {
+        "field": "body",
+        "type": "CREDIT_CARD",
+        "text": "5555 5555 5555 4444"
+      }
+    ],
+    "note": "顧客がカード番号をメールに書いてしまった例"
+  },
+  {
+    "id": "e026",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "小林 明美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kobayashi.akemi@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小林"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "BANK_ACCOUNT",
+        "text": "見本銀行 渋谷支店 普通 0123456"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "ナカムラ ツバサ"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e027",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "社員旅行のアンケートに回答する",
+        "due": "2026-11-17"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "soumu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e028",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "news@cloud-kaikei.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "ニュースレター"
+  },
+  {
+    "id": "e029",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "delivery@mihon-unyu-tracking.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "フィッシング風（宅配業者を装う）"
+  },
+  {
+    "id": "e030",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "岡田 真理"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "okada.mari@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "岡田"
+      },
+      {
+        "field": "body",
+        "type": "SALARY",
+        "text": "青木さんの12月からの基本給は、月額412,000円です。"
+      }
+    ],
+    "note": "利用者本人の給与"
+  },
+  {
+    "id": "e031",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "前田 大輔"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "maeda.daisuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "前田"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "父が11月17日（火）に心臓の手術を受けることになり、付き添いのため、その日に有給休暇をいただけないでしょうか。"
+      }
+    ],
+    "note": "家族の健康情報"
+  },
+  {
+    "id": "e032",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "中村 翼"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "nakamura.tsubasa@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "田村"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "北川"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e033",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "血圧の再検査を受ける",
+        "due": "2026-11-30"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "吉田 千夏"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "yoshida.chinatsu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "吉田"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "先日の定期健康診断で、血圧の値が基準を超えていたため、再検査の対象となりました。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "11月30日（月）までに、提携の医療機関で再検査を受けてください。"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "内線 1650"
+      }
+    ],
+    "note": "利用者本人の健康情報"
+  },
+  {
+    "id": "e034",
+    "needs_reply": false,
+    "archive": false,
+    "events": [
+      {
+        "title": "Sample Global Partners との打ち合わせ",
+        "start": "2026-11-17T09:00:00+09:00",
+        "end": "2026-11-17T10:00:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "emily.carter@global-partners.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Aoki"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Michael Brown"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e035",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "info@seminar.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "広告メール"
+  },
+  {
+    "id": "e036",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "サンプル商事へ契約書の原本を送る",
+        "due": "2026-11-13"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "加藤 誠"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kato.makoto@sample-shoji.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "加藤"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "東京都千代田区見本町1-1-1 サンプル商事ビル7階"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "野口"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e037",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "青木 美穂"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "miho.aoki@example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "subject",
+        "type": "PERSON_NAME",
+        "text": "陽菜"
+      },
+      {
+        "field": "subject",
+        "type": "HEALTH",
+        "text": "陽菜の熱"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽菜"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "美穂"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "陽菜が朝から38度の熱があるので、今日は学校を休ませて、小児科に連れて行きます。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "インフルエンザかどうかは、病院で調べてもらいます。"
+      }
+    ],
+    "note": "私用のメール。家族の健康情報"
+  },
+  {
+    "id": "e038",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "order@mihon-store.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "body",
+        "type": "POSTAL_CODE",
+        "text": "〒150-0000"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "東京都渋谷区見本町8-2-6"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "090-0000-7788"
+      }
+    ],
+    "note": "通販の注文確認。利用者本人の住所と電話番号"
+  },
+  {
+    "id": "e039",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "小野寺さんの書類選考の結果を回答する",
+        "due": "2026-11-16"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "佐々木 優"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "sasaki.yu@sample-career.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "subject",
+        "type": "PERSON_NAME",
+        "text": "小野寺 遥"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "佐々木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小野寺 遥"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "おのでら はるか"
+      },
+      {
+        "field": "body",
+        "type": "BIRTH_DATE",
+        "text": "平成8年3月2日"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "東京都世田谷区見本台6-1-9"
+      },
+      {
+        "field": "body",
+        "type": "SALARY",
+        "text": "現在の年収：450万円"
+      },
+      {
+        "field": "body",
+        "type": "SALARY",
+        "text": "希望年収：520万円"
+      }
+    ],
+    "note": "生年月日が和暦"
+  },
+  {
+    "id": "e040",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "井上 健二"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "inoue.kenji@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "井上"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "内線 2105"
+      }
+    ],
+    "note": "本物の注意喚起"
+  },
+  {
+    "id": "e041",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "松本 恵子"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "matsumoto.keiko@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "松本"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e042",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "森 翔太"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "mori.shota@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "森"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "整形外科の診断書を、本日総務部に提出しました。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "腰椎の軽い捻挫とのことで、2週間ほどで治る見込みです。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e043",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "西村 健"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "nishimura.ken@test-kogyo.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "西村"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "内田"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "090-0000-4455"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e044",
+    "needs_reply": true,
+    "archive": false,
+    "events": [
+      {
+        "title": "サンプル物産 オンライン説明",
+        "start": "2026-11-18T10:00:00+09:00",
+        "end": "2026-11-18T11:00:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "斎藤 美咲"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "saito.misaki@sample-bussan.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "斎藤"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "03-0000-2468"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e045",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "村上 由美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "murakami.yumi@mail.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "村上"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "東京都杉並区見本町3-9-1 コーポ見本101"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e046",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "前田 大輔"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "maeda.daisuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "前田"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "前田 由紀"
+      },
+      {
+        "field": "body",
+        "type": "BIRTH_DATE",
+        "text": "昭和63年7月21日"
+      },
+      {
+        "field": "body",
+        "type": "MY_NUMBER",
+        "text": "2345 6789 0123"
+      }
+    ],
+    "note": "部下が家族のマイナンバーをメールに書いてしまった例。生年月日は和暦"
+  },
+  {
+    "id": "e047",
+    "needs_reply": false,
+    "archive": false,
+    "events": [
+      {
+        "title": "防災訓練",
+        "start": "2026-11-19T14:00:00+09:00",
+        "end": "2026-11-19T14:30:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "soumu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e048",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "news@saas-journal.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "ニュースレター"
+  },
+  {
+    "id": "e049",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "it-support@mihon-soft-security.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "フィッシング風（差出人のドメインが社内と異なる）"
+  },
+  {
+    "id": "e050",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "下期の評価面談を実施する",
+        "due": "2026-11-27"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "岡田 真理"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "okada.mari@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "岡田"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "森"
+      },
+      {
+        "field": "body",
+        "type": "EVALUATION",
+        "text": "事前の集計では、森さんは目標の達成率が60%にとどまっており、評価はCの見込みです。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e051",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "小林 明美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kobayashi.akemi@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小林"
+      },
+      {
+        "field": "body",
+        "type": "BANK_ACCOUNT",
+        "text": "見本郵便銀行 記号10000 番号00000001"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "高橋"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e052",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "中村 翼"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "nakamura.tsubasa@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      }
+    ],
+    "note": "11/13 は利用者が大阪出張"
+  },
+  {
+    "id": "e053",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "高橋 一郎"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "takahashi.ichiro@mihon-unyu.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "高橋"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e054",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "小川 健太郎"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "ogawa.kentaro@example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小川"
+      }
+    ],
+    "note": "私用のメール"
+  },
+  {
+    "id": "e055",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "emily.carter@global-partners.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Aoki"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Emily"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e056",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "forum@kenko-forum.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "広告メール。健康という語はあるが個人の健康情報ではない"
+  },
+  {
+    "id": "e057",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "ストレスチェックに回答する",
+        "due": "2026-11-24"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "吉田 千夏"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "yoshida.chinatsu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "全社への案内。個人の健康情報ではない（紛らわしい例）"
+  },
+  {
+    "id": "e058",
+    "needs_reply": false,
+    "archive": false,
+    "events": [
+      {
+        "title": "藤井さんの一次面接",
+        "start": "2026-11-12T14:00:00+09:00",
+        "end": "2026-11-12T15:00:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "佐々木 優"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "sasaki.yu@sample-career.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "佐々木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "藤井"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e059",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "青木 和子"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kazuko.aoki@example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "美穂"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "先生からは、胃に小さなポリープがあるけれど、心配はいらないと言われています。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "明日から入院します。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "退院は金曜の11時の予定です。"
+      }
+    ],
+    "note": "私用のメール。家族の健康情報"
+  },
+  {
+    "id": "e060",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "order@mihon-store.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "body",
+        "type": "POSTAL_CODE",
+        "text": "〒150-0000"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "東京都渋谷区見本町8-2-6"
+      }
+    ],
+    "note": "通販の発送通知。利用者本人の住所"
+  },
+  {
+    "id": "e061",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "年末キャンペーンの案内文を確認する",
+        "due": "2026-11-18"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "松本 恵子"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "matsumoto.keiko@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "松本"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "松本 恵子"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e062",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "石川 さくら"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "ishikawa.sakura@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "石川"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "来年の春から産休に入ることを見越して、担当しているお客様の引き継ぎ計画を作りました。"
+      }
+    ],
+    "note": "産休は妊娠を前提にするので HEALTH とする"
+  },
+  {
+    "id": "e063",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "加藤 誠"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kato.makoto@sample-shoji.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "加藤"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e064",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "渡辺 恵美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "watanabe.emi@mail.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "渡辺"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "坂本 隆"
+      },
+      {
+        "field": "body",
+        "type": "MY_NUMBER",
+        "text": "123456789010"
+      }
+    ],
+    "note": "マイナンバーに区切りの空白がない"
+  },
+  {
+    "id": "e065",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "清水 大和"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "shimizu.yamato@mail.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "清水"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "東京都目黒区見本通り2-5-8 1階"
+      }
+    ],
+    "note": "店舗の住所"
+  },
+  {
+    "id": "e066",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "前田 大輔"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "maeda.daisuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "前田"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "今朝からめまいがひどいので、病院に寄ってから出社します。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e067",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "soumu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村 翼"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e068",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "news@cloud-kaikei.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "ニュースレター"
+  },
+  {
+    "id": "e069",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "info@mihon-card-check.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "フィッシング風（カード会社を装う）"
+  },
+  {
+    "id": "e070",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "岡田 真理"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "okada.mari@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "岡田"
+      },
+      {
+        "field": "body",
+        "type": "EVALUATION",
+        "text": "上期の査定の結果、青木さんの評価はB+でした。"
+      },
+      {
+        "field": "body",
+        "type": "SALARY",
+        "text": "これに伴い、冬季賞与は基準額の1.1倍の支給となる見込みです。"
+      }
+    ],
+    "note": "利用者本人の評価と賞与"
+  },
+  {
+    "id": "e071",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "中村 翼"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "nakamura.tsubasa@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "田村"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "03-0000-9876"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e072",
+    "needs_reply": false,
+    "archive": false,
+    "events": [
+      {
+        "title": "ノートPCの入れ替え",
+        "start": "2026-11-18T15:00:00+09:00",
+        "end": "2026-11-18T16:00:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "井上 健二"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "inoue.kenji@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "井上"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e073",
+    "needs_reply": false,
+    "archive": false,
+    "events": [
+      {
+        "title": "エグザンプル・データとの情報交換",
+        "start": "2026-11-20T16:00:00+09:00",
+        "end": "2026-11-20T17:00:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "山口 直樹"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "yamaguchi.naoki@example-data.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "山口"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e074",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "青木 美穂"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "miho.aoki@example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "subject",
+        "type": "PERSON_NAME",
+        "text": "陽菜"
+      },
+      {
+        "field": "subject",
+        "type": "HEALTH",
+        "text": "陽菜、インフルエンザだった"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽菜"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "美穂"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "病院の検査で、陽菜はインフルエンザでした。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "薬を飲んで熱は下がってきたけど、登校できるのは来週の火曜からです。"
+      }
+    ],
+    "note": "私用のメール。家族の健康情報"
+  },
+  {
+    "id": "e075",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "info@seminar.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "広告メール"
+  },
+  {
+    "id": "e076",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "12月分の経費精算を申請する",
+        "due": "2026-12-25"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "小林 明美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kobayashi.akemi@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小林"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e077",
+    "needs_reply": false,
+    "archive": false,
+    "events": [
+      {
+        "title": "見本クリニック 再検査",
+        "start": "2026-11-24T09:30:00+09:00",
+        "end": "2026-11-24T10:30:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "吉田 千夏"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "yoshida.chinatsu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "吉田"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "11月24日（火）9:30に、見本クリニックで血圧の再検査を受けてください。"
+      }
+    ],
+    "note": "利用者本人の健康情報"
+  },
+  {
+    "id": "e078",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "emily.carter@global-partners.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Aoki"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Michael Brown"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e079",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "佐々木 優"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "sasaki.yu@sample-career.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "佐々木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小野寺"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e080",
+    "needs_reply": false,
+    "archive": false,
+    "events": [
+      {
+        "title": "テスト工業 初期設定の支援",
+        "start": "2026-11-26T13:00:00+09:00",
+        "end": "2026-11-26T15:00:00+09:00"
+      }
+    ],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "西村 健"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "nishimura.ken@test-kogyo.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "西村"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "内田"
+      },
+      {
+        "field": "body",
+        "type": "POSTAL_CODE",
+        "text": "〒330-0000"
+      },
+      {
+        "field": "body",
+        "type": "ADDRESS",
+        "text": "埼玉県さいたま市大宮区見本町5-6-7"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e081",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "松本 恵子"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "matsumoto.keiko@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "松本"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "松本 恵子"
+      },
+      {
+        "field": "body",
+        "type": "PHONE",
+        "text": "内線 1201"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e082",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "森 翔太"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "mori.shota@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "森"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "腰の痛みはだいぶ良くなり、来週から通院は週1回になります。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e083",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "石川 さくら"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "ishikawa.sakura@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "石川"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "主治医と相談し、3月20日から産休に入ることにしました。"
+      }
+    ],
+    "note": "産休は妊娠を前提にするので HEALTH とする"
+  },
+  {
+    "id": "e084",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "斎藤 美咲"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "saito.misaki@sample-bussan.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "斎藤"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "大野"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "松井"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e085",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "村上 由美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "murakami.yumi@mail.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "村上"
+      },
+      {
+        "field": "body",
+        "type": "CREDIT_CARD",
+        "text": "4111 1111 1111 1111"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "村上 由美"
+      }
+    ],
+    "note": "顧客がカード番号をメールに書いてしまった例"
+  },
+  {
+    "id": "e086",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "前田 大輔"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "maeda.daisuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "前田"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "病院では、軽い貧血と言われました。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "鉄剤を処方してもらったので、しばらく様子を見ます。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e087",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "soumu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "全社への案内。住所という語はあるが具体的な住所はない（紛らわしい例）"
+  },
+  {
+    "id": "e088",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "news@saas-journal.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "ニュースレター"
+  },
+  {
+    "id": "e089",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "delivery@mihon-unyu-tracking.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "フィッシング風（宅配業者を装う）"
+  },
+  {
+    "id": "e090",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "岡田 真理"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "okada.mari@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "subject",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "岡田"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "EVALUATION",
+        "text": "最終面談の結果を受けて、中村さんの本採用が決まりました。"
+      },
+      {
+        "field": "body",
+        "type": "SALARY",
+        "text": "本採用後の基本給は、月額265,000円です。"
+      }
+    ],
+    "note": "給与の文には名前がない。前の文から中村さんの給与だとわかる"
+  },
+  {
+    "id": "e091",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "小林 明美"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kobayashi.akemi@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小林"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e092",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "中村 翼"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "nakamura.tsubasa@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "中村"
+      },
+      {
+        "field": "body",
+        "type": "BANK_ACCOUNT",
+        "text": "見本信用金庫 本店 普通預金 口座番号 7654321"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e093",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "見本運輸へ来年度の見積もりを送る",
+        "due": "2026-11-20"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "高橋 一郎"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "takahashi.ichiro@mihon-unyu.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "高橋"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e094",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "小川 健太郎"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "ogawa.kentaro@example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "小川"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "佐藤"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "伊藤"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "山本"
+      }
+    ],
+    "note": "私用のメール"
+  },
+  {
+    "id": "e095",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "青木 和子"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "kazuko.aoki@example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "美穂"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "今日の検査は無事に終わりました。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "ポリープは取ってもらい、結果は来週の外来で聞くことになりました。"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "明日の退院は、予定どおり美穂さんにお願いしています。"
+      }
+    ],
+    "note": "私用のメール。家族の健康情報"
+  },
+  {
+    "id": "e096",
+    "needs_reply": false,
+    "archive": true,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "forum@kenko-forum.example.net"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "広告メール"
+  },
+  {
+    "id": "e097",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [
+      {
+        "title": "インフルエンザの予防接種を申し込む",
+        "due": "2026-11-20"
+      }
+    ],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "吉田 千夏"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "yoshida.chinatsu@mihon-soft.example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      }
+    ],
+    "note": "全社への案内。個人の健康情報ではない（紛らわしい例）"
+  },
+  {
+    "id": "e098",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "佐々木 優"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "sasaki.yu@sample-career.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "青木"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "藤井"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "佐々木"
+      },
+      {
+        "field": "body",
+        "type": "SALARY",
+        "text": "なお、藤井様の現在の年収は480万円で、希望は550万円とのことです。"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e099",
+    "needs_reply": false,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "emily.carter@global-partners.example.com"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Aoki"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Yuki Tanaka"
+      },
+      {
+        "field": "body",
+        "type": "EMAIL",
+        "text": "yuki.tanaka@global-partners.example.com"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "Emily Carter"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "e100",
+    "needs_reply": true,
+    "archive": false,
+    "events": [],
+    "tasks": [],
+    "pii": [
+      {
+        "field": "from",
+        "type": "PERSON_NAME",
+        "text": "青木 美穂"
+      },
+      {
+        "field": "from",
+        "type": "EMAIL",
+        "text": "miho.aoki@example.jp"
+      },
+      {
+        "field": "to",
+        "type": "PERSON_NAME",
+        "text": "青木 陽介"
+      },
+      {
+        "field": "to",
+        "type": "EMAIL",
+        "text": "aoki.yosuke@mihon-soft.example.jp"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽介"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "陽菜"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "結菜"
+      },
+      {
+        "field": "body",
+        "type": "PERSON_NAME",
+        "text": "美穂"
+      },
+      {
+        "field": "body",
+        "type": "HEALTH",
+        "text": "陽菜の熱が下がったので、日曜日の結菜ちゃんの誕生日会には行けそう。"
+      }
+    ],
+    "note": "私用のメール"
+  }
+]
