@@ -1,6 +1,6 @@
 # 入門 System Oneモデル - サンプルコード
 
-本リポジトリは、技術書典21で頒布する「**入門 System Oneモデル ― Strands DeciderとStrands AgentsでつくるAIエージェント**」のサンプルコードを収録しています。
+本リポジトリは、技術書典21で頒布する「[**入門 System Oneモデル ― Strands DeciderとStrands AgentsでつくるAIエージェント**](https://techbookfest.org/product/rJ2tyytq6mvD18LVydkfc5)」のサンプルコードを収録しています。
 
 ## 書籍について
 
